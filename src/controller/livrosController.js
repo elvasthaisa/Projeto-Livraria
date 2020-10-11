@@ -8,8 +8,6 @@ const getAll = (req, res) => {
 }
 
 const getAllAvailableStock = (req, res) => {
-    // const stockFiltered = livros.filter(Boolean);
-    // const availabilityStock = stockFiltered.filter((livro) => livro.availableStock);
     const stock = livros.filter(Boolean);
     const stockFiltered = stock.filter((livro) => livro.availableStock);
 
