@@ -8,10 +8,12 @@ const getAll = (req, res) => {
 }
 
 const getAllAvailableStock = (req, res) => {
-    const stock = livros.map((livro) => livro.stock);
-    const availableStock = stock.filter(Boolean);
-    // console.log(availableStock);
-    res.status(200).send(availableStock);
+    // const stockFiltered = livros.filter(Boolean);
+    // const availabilityStock = stockFiltered.filter((livro) => livro.availableStock);
+    const stock = livros.filter(Boolean);
+    const stockFiltered = stock.filter((livro) => livro.availableStock);
+
+    res.status(200).send(stockFiltered);
 }
 
 const postLivros = (req, res) => {
@@ -42,8 +44,10 @@ const deleteLivros = (req, res) => {
             return res.status(424).send({ message: err });
         }
 
-        res.status(200).send(livros);
-    })
+        console.log('Arquivo atualizado com sucesso!');
+    });
+
+    res.status(200).send(livros);
 }
 
 module.exports = { 

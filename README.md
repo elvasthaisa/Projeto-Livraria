@@ -8,7 +8,7 @@ Livros: id, título, autor, ano de lançamento, editora e se há estoque.
 
 2 - A mesma livraria decidiu integrar um sisteminha em que será possível a adição de seus funcionários. A contratante espera que no sistema ela possa fazer a inclusão dos dados de cada um deles, contendo:
 
-Funcionários: id, nome, cpf, endereço, data de nascimento.
+Funcionários: id, nome, idade, cpf, endereço, data de nascimento.
 
 3 - Nossa livraria gostaria de garantir que será possível a exclusão do registro de determinado livro.
 
