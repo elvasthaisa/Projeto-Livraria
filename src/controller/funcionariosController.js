@@ -16,12 +16,12 @@ const getById = (req, res) => {
 
 const getIdadeById = (req, res) => {
     const id = req.params.id;
-    // const idade = req.params.idade;
 
-    const funcFiltrado = funcionarios.find((funcionario) => funcionario.id == id)
-    const idadeFiltrada = funcFiltrado.map((funcionario) => funcionario.idade);
+    const funcFiltrado = funcionarios.find((funcionario) => funcionario.id == id);
+    const nome = funcFiltrado.nome;
+    const idade = funcFiltrado.idade;
 
-    res.status(200).send(idadeFiltrada);
+    res.status(200).send({ nome, idade });
 }
 
 const postFuncionarios = (req, res) => {

@@ -20,7 +20,7 @@ Funcionários: id, nome, idade, cpf, endereço, data de nascimento.
 
 7 - Seria de grande valia se nossa livaria tivesse acesso a uma lista com todos os livros por categoria. 
 
-8 - A livraria gostaria de ter acesso a idade de um funcionário, de acordo com seu id. 
+8 - A livraria gostaria de ter acesso à idade de um funcionário, de acordo com seu id. 
 
 **Observação:** Popule nosso model de livros e funcionários com pelo menos 10 registros em cada.
 
