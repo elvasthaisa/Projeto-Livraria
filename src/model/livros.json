@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "O Pequeno Príncipe",
+        "author": "Antoine de Saint-Exupéry",
+        "yearOfLaunch": "1952",
+        "publisher": "HarperCollins",
+        "availableStock": false
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "yearOfLaunch": "1949",
+        "publisher": "Companhia das Letras",
+        "availableStock": true
+    },
+    {
+        "id": 3,
+        "title": "A Menina que Roubava Livros",
+        "author": "Markus Zusak",
+        "yearOfLaunch": "2005",
+        "publisher": "Editora Intrínseca",
+        "availableStock": true
+    },
+    {
+        "id": 4,
+        "title": "Harry Potter e o Prisioneiro de Azkaban",
+        "author": "J. K. Rowling",
+        "yearOfLaunch": "1999",
+        "publisher": "Editora Rocco",
+        "availableStock": true
+    },
+    {
+        "id": 5,
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "yearOfLaunch": "2015",
+        "publisher": "Penguin Companhia",
+        "availableStock": false
+    },
+    {
+        "id": 6,
+        "title": "Memórias Póstumas de Brás Cubas",
+        "author": "Machado de Assis",
+        "yearOfLaunch": "1881",
+        "publisher": "Editora Ática",
+        "availableStock": true
+    },
+    {
+        "id": 7,
+        "title": "Imitação de Cristo",
+        "author": "Tomás de Kempis",
+        "yearOfLaunch": "2015",
+        "publisher": "Editora Vozes",
+        "availableStock": true
+    },
+    {
+        "id": 8,
+        "title": "Capitães da Areia",
+        "author": "Jorge Amado",
+        "yearOfLaunch": "1937",
+        "publisher": "Companhia de Bolso",
+        "availableStock": true
+    },
+    {
+        "id": 9,
+        "title": "Luar Peregrino",
+        "author": "Wilson Frungilo Jr",
+        "yearOfLaunch": "2001",
+        "publisher": "IDE Editora",
+        "availableStock": false
+    },
+    {
+        "id": 10,
+        "title": "Meu Pé de Laranja Lima",
+        "author": "José Mauro de Vasconcelos",
+        "yearOfLaunch": "1968",
+        "publisher": "Melhoramentos",
+        "availableStock": true
+    },
+    {
+        "id": 11,
+        "title": "A Revolução dos Bichos",
+        "author": "George Orwell",
+        "yearOfLaunch": "1945",
+        "publisher": "Companhia das Letras",
+        "availableStock": true
+    }
+]
