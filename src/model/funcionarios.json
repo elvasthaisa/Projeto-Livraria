@@ -1,90 +1,101 @@
 [
     {
         "id": 1,
-        "nome": "Esther Lavínia Sarah Martins",
+        "nome": "Ana Lúcia Cabral de Machado",
         "idade": 28,
         "cpf": "178.465.931-29",
         "dataNascimento": "16/06/1992",
-        "enderecoCompleto": "Avenida José de Deus, 808 - Itamaraty 2ª Etapa - Anápolis - GO"
+        "enderecoCompleto": "Rua da Glória, 50 - Vista Alegre - Jaboatão dos Guararapes - PE",
+        "status": "active"
     },
     {
         "id": 2,
-        "nome": "Arthur Kevin das Neves",
+        "nome": "João Vitor Ferreira",
         "idade": 35,
         "cpf": "514.493.461-70",
         "dataNascimento": "20/11/1984",
-        "enderecoCompleto": "Rua José Milton de Oliveira, 864 - Centro - Parati - RJ"
+        "enderecoCompleto": "Rua Andaraí, 864 - Piedade - Jaboatão dos Guararapes - PE",
+        "status": "inactive"
     },
     {
         "id": 3,
         "nome": "Jorge Henrique Victor da Luz",
         "idade": 27,
-        "cpf": "54806445487",
+        "cpf": "548.064.454-87",
         "dataNascimento": "14/11/1993",
-        "enderecoCompleto": "Rua Zélia, 507 - Dois Unidos - Recife - PE"
+        "enderecoCompleto": "Rua Zélia, 507 - Dois Unidos - Recife - PE",
+        "status": "inactive"
     },
     {
         "id": 4,
         "nome": "Nicolas Otávio Assunção",
         "idade": 48,
-        "cpf": "63516782420",
+        "cpf": "635.167.824-20",
         "dataNascimento": "15/12/1972",
-        "enderecoCompleto": "Rua Trinta e Um de Março, 248 - Centro - Melgaço - PA"
+        "enderecoCompleto": "Rua Catulo da Paixão Cearense, 248 - Jardim Atlântico - Olinda - PE",
+        "status": "active"
     },
     {
         "id": 5,
         "nome": "Olivia Gabrielly Rodrigues",
         "idade": 27,
-        "cpf": "73263863401",
+        "cpf": "732.638.634-01",
         "dataNascimento": "20/03/1993",
-        "enderecoCompleto": "Avenida Boa Viagem, 679 - Boa Viagem - Recife - PE"
+        "enderecoCompleto": "Avenida Boa Viagem, 679 - Boa Viagem - Recife - PE",
+        "status": "active"
     },
     {
         "id": 6,
-        "nome": "Anthony Theo Novaes",
+        "nome": "Marcelo Russo Novais",
         "idade": 22,
-        "cpf": "72310009326",
+        "cpf": "723.100.093-26",
         "dataNascimento": "26/04/1998",
-        "enderecoCompleto": "Rua Santos Dumont, 793 - Centro - Barbalha - CE"
+        "enderecoCompleto": "Rua Itajubá, 793 - Imbiribeira - Recife - PE",
+        "status": "active"
     },
     {
         "id": 7,
         "nome": "Carlos Eduardo Ricardo Assis",
         "idade": 24,
-        "cpf": "95905286868",
+        "cpf": "959.052.868-68",
         "dataNascimento": "05/09/1996",
-        "enderecoCompleto": "Rua Parmênides, 622 - Sítio Taquaral - Santo André - SP"
+        "enderecoCompleto": "2ª Travessa Avelar, 122 - Água Fria - Recife - PE",
+        "status": "inactive"
     },
     {
         "id": 8,
         "nome": "Carolina Emily Alícia Figueiredo",
         "idade": 23,
-        "cpf": "63038764809",
+        "cpf": "630.387.648-09",
         "dataNascimento": "03/07/1997",
-        "enderecoCompleto": "Rua Mâncio Lima, 884 - Jardim Sipramar - São Paulo - SP"
+        "enderecoCompleto": "Rua André Barros de Oliveira, 884 - Nova Descoberta - Recife - PE",
+        "status": "active"
     },
     {
         "id": 9,
         "nome": "Isadora Sophia Carolina Baptista",
         "idade": 31,
-        "cpf": "26271316646",
+        "cpf": "262.713.166-46",
         "dataNascimento": "20/11/1989",
-        "enderecoCompleto": "Praça Edson Miranda 106 - Centro - Açucena - MG"
+        "enderecoCompleto": "Rua General Valdemar Rocha, 106 - Afogados - Recife - PE",
+        "status": "inactive"
     },
     {
         "id": 10,
         "nome": "Natália Letícia Viana",
         "idade": 20,
-        "cpf": "87820885351",
+        "cpf": "878.208.853-51",
         "dataNascimento": "24/12/2000",
-        "enderecoCompleto": "Avenida Barão do Rio Branco, 829 - Centro - Bacabal - MA"
+        "enderecoCompleto": "Rua Alcina, 829 - Macaxeira - Recife - PE",
+        "status": "active"
     },
     {
         "id": 11,
         "nome": "Antônia Catarina Isadora da Silva",
         "idade": 57,
-        "cpf": "52526092507",
+        "cpf": "525.260.925-07",
         "dataNascimento": "25/07/1963",
-        "enderecoCompleto": "Rua Senhor do Bomfim, 677 - Japãozinho - Aracaju - SE"
+        "enderecoCompleto": "1ª Travessa do Meio, 677 - Boa Viagem - Recife - PE",
+        "status": "active"
     }
 ]
