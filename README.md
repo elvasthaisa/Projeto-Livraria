@@ -24,3 +24,12 @@ Funcionários: id, nome, idade, cpf, endereço, data de nascimento.
 
 **Observação:** Popule nosso model de livros e funcionários com pelo menos 10 registros em cada.
 
+9 - Para os livros, crie um método em que será possível a atualização do campo Nome utilizando o método HTTP PUT.
+
+10 - Para os livros, crie um método em que será possível a atualização do campo Nome utilizando o método HTTP PATCH.
+
+11 - Para os funcionários, crie um método em que será possível a atualização do campo Nome utilizando o método HTTP PUT.
+
+12 - Para os funcionários, crie um método em que será possível a atualização do campo Nome utilizando o método HTTP PATCH.
+
+

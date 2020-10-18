@@ -5,7 +5,7 @@
         "author": "Antoine de Saint-Exupéry",
         "yearOfLaunch": "1952",
         "publisher": "HarperCollins",
-        "availableStock": false
+        "availableStock": true
     },
     {
         "id": 2,
@@ -77,14 +77,6 @@
         "author": "José Mauro de Vasconcelos",
         "yearOfLaunch": "1968",
         "publisher": "Melhoramentos",
-        "availableStock": true
-    },
-    {
-        "id": 11,
-        "title": "A Revolução dos Bichos",
-        "author": "George Orwell",
-        "yearOfLaunch": "1945",
-        "publisher": "Companhia das Letras",
         "availableStock": true
     }
 ]

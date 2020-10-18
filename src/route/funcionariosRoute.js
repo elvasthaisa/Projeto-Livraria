@@ -7,5 +7,7 @@ router.get('/idade/:id', controller.getIdadeById);
 router.get('/:id', controller.getById);
 router.post('/', controller.postFuncionarios);
 router.delete('/:id', controller.deleteFuncionarios);
+router.put('/:id', controller.putFuncionario);
+router.patch('/:id', controller.patchFuncionario);
 
 module.exports = router;

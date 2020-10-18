@@ -8,5 +8,7 @@ router.get('/livros', controller.getAll);
 router.get('/estoque', controller.getAllAvailableStock);
 router.post('/', controller.postLivros);
 router.delete('/:id', controller.deleteLivros);
+router.put('/:id', controller.putLivros);
+router.patch('/:id', controller.patchLivros);
 
 module.exports = router;
